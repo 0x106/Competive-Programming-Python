@@ -1,0 +1,5 @@
+TODO: check all chapter files
+      - done chapter 4
+      - ensure each function is included / spelled correctly
+      - docstrings are correct
+      - print statements are correct
