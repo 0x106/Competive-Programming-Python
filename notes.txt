@@ -3,3 +3,6 @@ TODO: check all chapter files
       - ensure each function is included / spelled correctly
       - docstrings are correct
       - print statements are correct
+
+TODO: create input / output structure
+      - will likely have to create helper functions
